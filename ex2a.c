@@ -43,6 +43,7 @@ void sequenceSum(int arr[], int length){
     int temp, sum = arr[0]; //start with the first number
     int i;
 
+    
     for(i=1; i<length; i++) {
         if(temp + arr[i] > arr[i]) // if the previous number + this number bigger then this number, save it
             temp+=arr[i];
