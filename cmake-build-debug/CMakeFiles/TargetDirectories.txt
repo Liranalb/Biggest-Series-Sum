@@ -1,0 +1,3 @@
+/home/liran/CLionProjects/Biggest-Series-Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liran/CLionProjects/Biggest-Series-Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liran/CLionProjects/Biggest-Series-Sum/cmake-build-debug/CMakeFiles/Biggest_Series_Sum.dir
